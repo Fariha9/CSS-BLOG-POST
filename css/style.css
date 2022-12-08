@@ -1,0 +1,78 @@
+#blog-heading1{
+    text-align: center;
+    font-family: 'Khula', sans-serif;
+    font-size:  40px;
+    line-height: 40px;
+    color: dimgray;
+}
+.p{
+    text-align: left;
+    font-family: 'Khula', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    color: black;
+    
+}
+#blog-heading2{
+    text-align: left;
+    font-family: 'Khula', sans-serif;
+    color: slategray;
+
+}
+
+#blog-heading-3{
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: 'Khula', sans-serif;
+    font-size: 40px;
+}
+.p1{
+    font-size: 20px;
+    margin-left: 20%;
+    color:grey;
+
+}
+#p2{
+    font-size: 15px;
+    margin-left: 20%;
+    color: darkgrey;
+
+}
+#img{
+    width: 60%;
+    height:40%;
+    margin-left: 20%;
+
+}
+#p3{
+    font-size: 25px;
+     color: black;
+    font-family: 'Khula', sans-serif;
+    margin-left:20%;
+    font-weight: bolder;
+
+}
+#a{
+    font-weight: bold;
+    color: blue;
+    margin-left: 20%;
+     font-size:  30px; 
+     font-family: 'Khula', sans-serif;
+}
+#p4{
+    font-size: 25px;
+    font-family: 'Khula', sans-serif;
+    margin-left:20%;
+    
+
+}
+#blog-heading4{
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    text-align: right;
+   
+}
+
+
+
+
